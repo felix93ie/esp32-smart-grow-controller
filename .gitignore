@@ -1,0 +1,17 @@
+# PlatformIO build artifacts
+.pio/
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Logs and runtime data
+*.log
+
+# Sensitive credentials
+include/secrets.h
+secrets.h
+
+# OS generated files
+.DS_Store
+Thumbs.db
